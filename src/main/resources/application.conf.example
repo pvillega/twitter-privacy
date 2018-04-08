@@ -1,0 +1,11 @@
+twitter {
+  consumer {
+    key = "my-consumer-key"
+    secret = "my-consumer-secret"
+  }
+  access {
+    key = "my-access-key"
+    secret = "my-access-secret"
+  }
+}
+user.handle="your_user_handle_without_@"

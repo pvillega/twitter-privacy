@@ -2,7 +2,7 @@
 
 This app erases your tweets older than a couple of months. You can run it manually or as a cron job in a computer you own.
 
-# Setup
+## Setup
 
 You will need Twitter API keys for your user, you can obtain them at [Twitter Apps](https://apps.twitter.com).
 
@@ -23,5 +23,12 @@ Given Twitter, in this specific case, is a useful platform to retrieve informati
 
 I've been told this amounts to self-censorship and it is not a positive move. That is completely true, this shouldn't be necessary. But current developments show this is, currently, an utopia. 
 
+## Contribution policy 
+
+Contributions via GitHub pull requests are gladly accepted from their original author. Along with any pull requests, please state that the contribution is your original work and that you license the work to the project under the project's open source license. Whether or not you state this explicitly, by submitting any copyrighted material via pull request, email, or other means you agree to license the material under the project's open source license and warrant that you have the legal authority to do so.
+
+## License 
+
+This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
 
 
